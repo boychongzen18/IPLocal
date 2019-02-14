@@ -1,0 +1,21 @@
+list IP Local / IP Sakti 
+
+10.201.xxx.xx
+10.212.xxx.xx
+10.112.xxx.xx
+10.123.xx.xxx
+10.112.xxx.xx
+10.118.xxx.xx
+10.158.xxx.xx
+10.188.xxx.xx
+10.98.xxx.xx
+10.80.xxx.xx
+10.70.xxx.xx
+10.53.xxx.xx
+10.45.xxx.xx
+10.35.xxx.xx
+10.18.xxx.xx
+
+Created Boychongzen aka Xroot
+
+
