@@ -1,0 +1,19 @@
+Name :  Singtel
+APN : e-ideas
+Proxy : Not Set
+Port : Not Set
+Username : Not Set
+Password : Not Set
+Server : Not Set
+MMSC :  http://mms.singtel.com:10021/mmsc
+MMS Proxy : 165.21.42.84
+MMS Port : 8080
+MCC : 525
+MNC : 01
+Authentication Type : Not Set
+APN type : default,supl,mms
+APN protocol: Ipv4
+Enable/disable APN: APN Enabled
+Bearer: Unspecified
+MVNO type : None
+MVNO Value : Not set

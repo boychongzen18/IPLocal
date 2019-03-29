@@ -1,0 +1,17 @@
+
+
+Nama: VIP Kroasia 
+APN: gprs0.vipnet.hr 
+Proksi: 212.91.99.91 
+Port: 8080 
+Nama Pengguna: Tidak Diatur 
+Kata Sandi: Tidak Diatur 
+Server: Tidak Diatur 
+MMSC: http://mms.vipnet.hr/servlets/mms 
+Proxy MMS: 212.91.99.91 
+Port MMS: 8080 
+MCC: 219 
+MNC: 10 
+Jenis Otentikasi: Tidak Diatur 
+Jenis APN: default, supl, mms 
+Protokol APN: Ipv4
