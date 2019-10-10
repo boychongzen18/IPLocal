@@ -2,7 +2,7 @@
 
 # Author : Boychongzen aka Xroot
 
-# Tampilan IP Local / IP Sakti 
+# Tampilan IP Local / IP Sakti Khusus OPOK
 ![be](https://raw.githubusercontent.com/boychongzen18/IPLocal/master/ipscan.jpg)
 
 ========================================================================
