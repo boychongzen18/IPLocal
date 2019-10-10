@@ -1,21 +1,21 @@
-list IP Local / IP Sakti 
-
-10.201.xxx.xx
-10.212.xxx.xx
-10.112.xxx.xx
-10.123.xx.xxx
-10.112.xxx.xx
-10.118.xxx.xx
-10.158.xxx.xx
-10.188.xxx.xx
-10.98.xxx.xx
-10.80.xxx.xx
-10.70.xxx.xx
-10.53.xxx.xx
-10.45.xxx.xx
-10.35.xxx.xx
-10.18.xxx.xx
+list IP Local / IP Sakti TKP Masing-Masing
 
 Created Boychongzen aka Xroot
+
+10.30.xxx.xx
+10.40.xx.xxx
+10.50.xxx.xx
+10.60.xxx.xx
+10.70.xxx.xx
+10.80.xxx.xx
+10.90.xxx.xx
+10.100.xxx.xx
+10.200.xxx.xx
+100.100.xxx.xx
+
+
+NB : Ip Local Sesuaikan TKP Masing-Masing
+
+
 
 
